@@ -10,4 +10,4 @@ Accuracy score on test set:
 The notebook with solution contains:
 1. Data quality assessment and missing data imputation.
 2. Thorough Data exploration with many plots, observations, summary and feature engineering.
-3. Modeling block were I compared 3 algorithms: Logistic Regression, KNN and Random Forests, including model tuning with RandomizeSearchCV, cross validation, feature selection, data scaling and encoding.
+3. Modeling block were I compared 3 algorithms: Logistic Regression, KNN and Random Forests and did model tuning with RandomizeSearchCV, cross validation, feature selection, data scaling and encoding.
